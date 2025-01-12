@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+{% block body %}
+
+    <h1>LEADERBOARD</h1>
+            <table>
+                <thead>
+                    <tr>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for user in users %}
+                    <tr>
+                        <td>{{ fname }} {{ lname }}</td>
+                        <td>{{ percent_lost }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            {% endfor %}
+{% endblock %}

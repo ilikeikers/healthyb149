@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+{% block body %}
+    <h1>MOST ROSTERED PLAYERS</h1>
+            {% for user in favorites %}
+            <h3>{{ user }}'s Most Rostered Players in {{ favorites[user][0] }} Leagues</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                    {% for player in favorites[user][1] %}
+                        <td>{{ player }}</td>
+                    {% endfor %}
+                    </tr>
+                    <tr>
+                    {% for player in favorites[user][1] %}
+                        <td>{{ favorites[user][1][player] }}</td>
+                    {% endfor %}
+                    </tr>
+                </tbody>
+            </table>
+            {% endfor %}
+{% endblock %}

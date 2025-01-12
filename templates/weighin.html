@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+{% block body %}
+
+    <h1>WEIGH IN</h1>
+    <br>
+    <form action="/addweight" method="post" id="addweight">
+        <select id="names" name="name" required>
+            <option selected disabled hidden>Name</option>
+            {% for name in names %}
+            <option value="{{ name[0] }}{{ name[1] }}">{{ name[0] }} {{ name[1] }}</option>
+            {% endfor %}
+        </select>
+        <br>
+        <input autocomplete="off" autofocus name="pin" placeholder="Pin (1-6 numbers)" required min="1" max="999999" type="number" inputmode="numeric" pattern="[0-9]*">
+        <br>
+        <input autocomplete="off" autofocus name="weight" placeholder="Weight" min="20.00" max="999.99" required type="number" step="0.01">
+        <select id="units" name="units" required>
+            <option selected>kg</option>
+            <option>lb</option>
+        </select>
+        <br>
+        <input autocomplete="off" autofocus name="scaleid" placeholder="Scale ID (not required)"  maxlength="15" pattern="[A-Za-z0-9]+" type="text">
+        <br>
+        <input autocomplete="off" autofocus name="checkedby" placeholder="Checked By"  maxlength="15" pattern="[A-Za-z0-9]+" required type="text">
+        <br>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+
+{% endblock %}

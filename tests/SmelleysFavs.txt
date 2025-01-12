@@ -1,0 +1,150 @@
+ASmelly7
+{'Will Levis': 4, 'Michael Wilson': 4, 'Roman Wilson': 3, 'Kyler Murray': 3, 'Calvin Ridley': 3, 'Bo Nix': 3, 'Rico Dowdle': 3, 'Chris Godwin': 3, 'Derrick Henry': 3, 'Elijah Mitchell': 2, 'Cade Otton': 2, 'Noah Gray': 2, 'Luke McCaffrey': 2, 'Malik Washington': 2, 'Theo Johnson': 2, 'Audric Estime': 2, 'Dylan Laube': 2, 'Deebo Samuel': 2, 'A.J. Brown': 2, 'Jake Bates': 2, 'DEF MIA': 2, 'Cameron Dicker': 2, 'Trey McBride': 2, 'DeVonta Smith': 2, 'Braelon Allen': 2}
+richasian1044
+{'Brian Robinson': 8, 'Kyle Pitts': 7, 'Najee Harris': 7, 'Dalton Kincaid': 7, 'Kimani Vidal': 6, 'Tyjae Spears': 5, 'Drake London': 5, 'Bijan Robinson': 5, 'Derrick Henry': 5, 'Anthony Richardson': 5, 'Bryce Young': 5, 'Diontae Johnson': 5, 'Chris Godwin': 5, 'Jaylen Warren': 4, 'Sam Howell': 4, 'Tyrone Tracy': 4, 'Michael Penix': 4, 'DEF DAL': 4, 'Jerome Ford': 4, 'Marvin Harrison': 4, 'Khalil Shakir': 4, 'Jonathon Brooks': 4, 'Rhamondre Stevenson': 4, 'Terry McLaurin': 4, 'DJ Moore': 4, 'DEF ATL': 4, "De'Von Achane": 4, 'Younghoe Koo': 4, 'Blake Corum': 4, 'Breece Hall': 3, 'Justin Herbert': 3, 'Roschon Johnson': 3, 'Dontayvion Wicks': 3, 'Zay Flowers': 3, 'Treylon Burks': 3, 'Jermaine Burton': 3, 'C.J. Stroud': 3, "Wan'Dale Robinson": 3, 'Justin Fields': 3, 'Drew Lock': 3, 'Jameson Williams': 3, 'Jaxon Smith-Njigba': 3, 'Gardner Minshew': 3, 'Kyler Murray': 3, 'DEF CIN': 3, 'Trevor Lawrence': 3, 'Adonai Mitchell': 3, 'Deebo Samuel': 3, 'Jalen Hurts': 3, 'David Montgomery': 3, 'DEF BAL': 2, 'Will Levis': 2, 'Jordan Addison': 2, 'Zach Charbonnet': 2, 'Brandon Aiyuk': 2, 'Rashod Bateman': 2, 'Cole Kmet': 2, 'Sam Darnold': 2, 'Jeremy Ruckert': 2, 'Xavier Legette': 2, 'Chigoziem Okonkwo': 2, 'Dameon Pierce': 2, 'Xavier Worthy': 2, 'Quentin Johnston': 2, 'Cade Otton': 2, 'Will Shipley': 2, 'Christian Kirk': 2, 'Brock Purdy': 2, 'Noah Fant': 2, 'Jimmy Garoppolo': 2, 'Sione Vaki': 2, 'Javon Baker': 2, 'Rome Odunze': 2, "Aidan O'Connell": 2, 'Garrett Wilson': 2, 'George Pickens': 2, 'Harrison Butker': 2, 'Braelon Allen': 2, 'Joe Burrow': 2, 'Baker Mayfield': 2, 'Taysom Hill': 2, 'Jayden Daniels': 2, 'Jahmyr Gibbs': 2, 'Romeo Doubs': 2, "Ja'Marr Chase": 2, 'Tee Higgins': 2, 'T.J. Hockenson': 2, 'Jake Bates': 2, 'DK Metcalf': 2, 'Gus Edwards': 2, 'Zamir White': 2, 'James Cook': 2, 'Joshua Palmer': 2, 'Caleb Williams': 2, 'Chase Brown': 2, 'Tyler Allgeier': 2, 'Greg Zuerlein': 2, 'Cooper Kupp': 2, 'Rashee Rice': 2}
+ilikeikers
+{'Keenan Allen': 3, 'Keaton Mitchell': 2, 'Tank Dell': 2, 'Jelani Woods': 2, 'James Cook': 2, 'Jordan Love': 2, 'Zach Charbonnet': 2, 'Josh Jacobs': 2, 'Jayden Reed': 2, 'Brock Purdy': 2, 'Jakobi Meyers': 2, 'Hollywood Brown': 2, 'David Njoku': 2, 'Stefon Diggs': 2}
+ggoffee
+{'Malik Nabers': 4, 'Jaylen Wright': 4, 'MarShawn Lloyd': 4, 'Jaylen Waddle': 3, 'Jaxon Smith-Njigba': 3, 'Evan Engram': 3, 'Jonathon Brooks': 3, 'Rashee Rice': 3, 'Brandon Aiyuk': 2, "D'Andre Swift": 2, 'Blake Corum': 2, 'Travis Etienne': 2, 'Deshaun Watson': 2, 'Kendre Miller': 2, 'Jahmyr Gibbs': 2, 'Antonio Gibson': 2, 'Joe Burrow': 2, 'Christian Kirk': 2, 'Isaac Guerendo': 2, 'Will Shipley': 2, 'Zay Flowers': 2, 'Chase Brown': 2, 'Jordan Mason': 2, 'CeeDee Lamb': 2, 'Daniel Jones': 2, 'Trey Benson': 2, "De'Von Achane": 2, 'Dalton Kincaid': 2}
+minaudom
+{'J.K. Dobbins': 3, 'Malachi Corley': 2, 'Rachaad White': 2, 'Curtis Samuel': 2, 'Geno Smith': 2, 'Ladd McConkey': 2, 'Chris Olave': 2, 'Zamir White': 2, 'Jerry Jeudy': 2, 'Josh Allen': 2, 'Stefon Diggs': 2, 'Jake Moody': 2}
+brocker99
+{'Caleb Williams': 3, 'Mike Williams': 2, 'Tre Tucker': 2, 'Cole Kmet': 2}
+zmitchell327
+{'Marvin Mims': 2, 'Jakobi Meyers': 2, 'JuJu Smith-Schuster': 2, 'Ricky Pearsall': 2, "De'Von Achane": 2, 'Justin Jefferson': 2, 'Josh Allen': 2}
+Wolf1221
+{'Evan Engram': 3, 'Garrett Wilson': 2, 'Saquon Barkley': 2, 'Jaleel McLaughlin': 2}
+DancersPanthers
+{'Kendre Miller': 3, 'Mark Andrews': 3, 'DEF SF': 2, 'Jaxon Smith-Njigba': 2, 'Jalen Nailor': 2, 'Ray Davis': 2, 'Evan Hull': 2, 'Tyler Allgeier': 2, 'Rondale Moore': 2, 'Pat Freiermuth': 2, 'Michael Pittman': 2, 'Kendrick Bourne': 2, 'Kirk Cousins': 2, 'Aaron Rodgers': 2, 'Chris Olave': 2, 'Gus Edwards': 2}
+202444
+{}
+DrPorkSword
+{}
+Hugefootballguy
+{}
+Stephan140
+{}
+vdonof01
+{'Puka Nacua': 2, 'Trey McBride': 2, "Wan'Dale Robinson": 2, 'Jonathan Taylor': 2, 'Daniel Jones': 2, 'Malik Nabers': 2}
+HunchoQ
+{'Jonathon Brooks': 5, 'Khalil Shakir': 4, 'Matthew Stafford': 4, 'Jaylen Warren': 3, 'Jonathan Taylor': 3, 'Bijan Robinson': 3, 'Josh Downs': 3, 'Brandon Aiyuk': 3, 'Mark Andrews': 3, 'Chuba Hubbard': 3, 'Terry McLaurin': 3, 'Nick Chubb': 3, 'Romeo Doubs': 3, 'Diontae Johnson': 3, 'DJ Moore': 3, 'Christian McCaffrey': 3, 'Anthony Richardson': 2, 'Tyrod Taylor': 2, 'Kendrick Bourne': 2, 'Stefon Diggs': 2, 'DEF CIN': 2, 'Drake London': 2, 'Mike Williams': 2, 'Amari Cooper': 2, 'Troy Franklin': 2, 'Sam LaPorta': 2, 'Najee Harris': 2, 'Jordan Love': 2, 'Taysom Hill': 2, 'Kirk Cousins': 2, 'Roman Wilson': 2, 'Xavier Legette': 2, 'CeeDee Lamb': 2, 'Dalton Schultz': 2, 'Justin Tucker': 2, 'Brian Thomas': 2, 'Puka Nacua': 2, 'Breece Hall': 2, 'Courtland Sutton': 2, 'Evan Engram': 2, 'Raheem Mostert': 2, 'Adam Thielen': 2, 'Bo Nix': 2, 'Michael Penix': 2, 'Curtis Samuel': 2, 'Ladd McConkey': 2, 'Caleb Williams': 2}
+Hukill07
+{'Jalen Tolbert': 3, 'Sam Darnold': 3, 'Greg Dulcich': 2, 'Marvin Harrison': 2, 'Trey Benson': 2, 'Isaiah Likely': 2, 'Jahan Dotson': 2, 'Jordan Love': 2, 'Jaylen Wright': 2, 'Caleb Williams': 2, 'Andrei Iosivas': 2}
+bsinski
+{'Tyler Allgeier': 2, 'Trey Sermon': 2, 'Jakobi Meyers': 2, 'Courtland Sutton': 2, 'Jameis Winston': 2, 'Isaac Guerendo': 2, 'Brock Bowers': 2, 'Braelon Allen': 2}
+PapaBearoffour44
+{'Bryce Young': 2, 'Rico Dowdle': 2, 'Audric Estime': 2}
+Venom0413
+{}
+Tadda07
+{'Jameson Williams': 2}
+YoBabyMommaLuvMe
+{'Salvon Ahmed': 2, 'Diontae Johnson': 2, 'Keisean Nixon': 2, 'Tyrice Knight': 2, 'Hunter Henry': 2, 'Jaleel McLaughlin': 2}
+yourmomlovesme1
+{'Skyy Moore': 4, 'Audric Estime': 3, 'Zay Flowers': 3, 'Daniel Bellinger': 3, 'Greg Dulcich': 3, 'Anthony Richardson': 3, 'Curtis Samuel': 3, 'Gus Edwards': 2, 'Dalton Schultz': 2, "Ja'Lynn Polk": 2, 'Sam Darnold': 2, 'Deneric Prince': 2, 'Jakobi Meyers': 2, "De'Von Achane": 2, 'Rashod Bateman': 2, 'Brandon Aiyuk': 2, 'Tucker Kraft': 2, 'Michael Mayer': 2, 'Erick All': 2, 'Khalil Herbert': 2, 'Irv Smith': 2, 'Germaine Pratt': 2, 'Josh Jacobs': 2, 'Deuce Vaughn': 2, 'Tyrion Davis-Price': 2, 'Zach Wilson': 2, 'Donovan Peoples-Jones': 2, 'Allen Lazard': 2, 'Josh Allen': 2, 'Tyrone Tracy': 2, 'Blake Corum': 2, 'Jerome Ford': 2, 'Jake Ferguson': 2, 'Tua Tagovailoa': 2, 'Sam LaPorta': 2}
+Rshano21
+{'Jordan Travis': 3, 'Josh Downs': 3, 'Javonte Williams': 3, 'Cole Kmet': 3, 'Tyrone Tracy': 3, 'Rome Odunze': 2, 'Will Levis': 2, 'Marvin Harrison': 2, 'Kendre Miller': 2, 'Bijan Robinson': 2, 'George Pickens': 2, 'Justin Herbert': 2, 'Caleb Williams': 2, 'Sam LaPorta': 2}
+freewinsforever
+{'A.T. Perry': 3, 'Chigoziem Okonkwo': 3, 'Ben Sinnott': 3, 'DEF PIT': 3, 'Michael Pittman': 3, 'Xavier Legette': 3, 'Sam LaPorta': 3, 'Jamari Thrash': 2, 'MarShawn Lloyd': 2, 'Greg Dortch': 2, 'Brenden Rice': 2, 'Audric Estime': 2, 'Hendon Hooker': 2, 'A.J. Brown': 2, 'Denzel Ward': 2, 'Matthew Judon': 2, 'Javon Hargrave': 2, "Henry To'oTo'o": 2, 'Jameson Williams': 2, 'George Pickens': 2, 'Tyler Bass': 2, 'Troy Franklin': 2, 'Caleb Williams': 2, 'C.J. Stroud': 2, 'Breece Hall': 2, 'Travis Etienne': 2, "D'Andre Swift": 2, 'Raheem Mostert': 2, 'Rome Odunze': 2, 'Trey Benson': 2}
+Littleman120
+{'Jared Wiley': 4, 'Blake Corum': 4, 'Drake London': 3, 'Hollywood Brown': 3, 'Braelon Allen': 3, 'Trey Palmer': 3, 'Geno Smith': 3, 'Brenden Rice': 3, 'Cade Otton': 2, 'Deuce Vaughn': 2, 'Derek Stingley': 2, 'Kenny Pickett': 2, 'Cole Kmet': 2, 'Jeffery Simmons': 2, 'Alex Singleton': 2, 'J.J. McCarthy': 2, 'Luke Musgrave': 2, 'Kyler Murray': 2, 'Mike Gesicki': 2, 'Sauce Gardner': 2, 'Skyy Moore': 2, 'Malik Willis': 2, 'Marcus Davenport': 2, 'Theo Johnson': 2, 'Chase Brown': 2, 'Raheem Blackshear': 2, 'Jelani Woods': 2, 'Rondale Moore': 2, 'Jahan Dotson': 2, 'Jaylen Wright': 2}
+Favrelicious
+{'Allen Lazard': 2, 'Younghoe Koo': 2, 'Alvin Kamara': 2, 'Kayshon Boutte': 2, 'Matt Prater': 2, 'Travis Kelce': 2, 'Luke McCaffrey': 2}
+Tolliver83
+{'Kyren Williams': 6, 'Dak Prescott': 6, 'Tyreek Hill': 5, 'DeVonta Smith': 5, 'Ronnie Rivers': 5, 'Evan Engram': 5, 'Rachaad White': 5, 'Puka Nacua': 5, 'Treylon Burks': 4, 'Paulson Adebo': 4, 'Eric Gray': 4, 'Trey McBride': 4, 'David Montgomery': 4, 'CeeDee Lamb': 3, 'Pat Freiermuth': 3, 'Amari Cooper': 3, 'Jake Ferguson': 3, 'Roquan Smith': 3, 'Tank Bigsby': 3, 'Bijan Robinson': 3, 'Trey Sermon': 3, 'Jason Pinnock': 3, 'Jordan Love': 3, 'Christian McCaffrey': 3, 'Brenton Strange': 3, 'Evan Hull': 3, 'Brock Purdy': 3, 'Jalen Tolbert': 3, 'Michael Pittman': 3, 'Brandon Aiyuk': 3, 'Chase Edmonds': 3, 'Chris Godwin': 3, 'Joe Mixon': 3, 'Derek Carr': 3, 'T.J. Hockenson': 3, 'Allen Lazard': 3, 'Adam Thielen': 3, 'Ty Chandler': 3, 'Rico Dowdle': 3, 'Jakobi Meyers': 3, 'Mike Evans': 3, 'Jaylen Waddle': 3, 'Jonathan Taylor': 3, 'Kyle Pitts': 2, 'Elijah Moore': 2, 'Trey Lance': 2, 'Josh Allen': 2, 'Sam Hubbard': 2, 'DK Metcalf': 2, 'D.J. Wonnum': 2, 'Isaac Guerendo': 2, 'Travis Etienne': 2, 'Tyler Allgeier': 2, 'Nicholas Morrow': 2, 'Elijah Mitchell': 2, 'Jonathon Cooper': 2, 'KaVontae Turpin': 2, 'Foyesade Oluokun': 2, 'T.J. Edwards': 2, 'Josh Downs': 2, 'Camryn Bynum': 2, 'DeAndre Hopkins': 2, 'Travon Walker': 2, 'Cody Barton': 2, 'Kendre Miller': 2, 'Zach Evans': 2, 'Colby Parkinson': 2, 'Cole Kmet': 2, 'Jared Goff': 2, 'Rasheen Ali': 2, 'Jake Bobo': 2, 'Tre Tucker': 2, 'Deuce Vaughn': 2, 'Alec Pierce': 2, 'Jalen Hurts': 2, 'Samaje Perine': 2, 'Luke McCaffrey': 2, 'Micah McFadden': 2, 'Isaiah McDuffie': 2, 'Julian Blackmon': 2, 'Grant Delpit': 2, 'Derrick Brown': 2, 'Jalen Thompson': 2, 'Charvarius Ward': 2, 'Kyzir White': 2, 'Harold Landry': 2, 'Johnny Mundt': 2, 'Elijah Higgins': 2, 'Tee Higgins': 2, 'Taysom Hill': 2, 'Jake Elliott': 2, 'Blake Corum': 2}
+rggreggs
+{'Michael Wilson': 2, 'DeMario Douglas': 2}
+FreightTrain3
+{'Gabe Davis': 2, 'DJ Chark': 2}
+ZeroCool25
+{'Quentin Johnston': 3, 'Jaquan Brisker': 2, 'James Cook': 2, 'Khalil Shakir': 2, 'Ricky Pearsall': 2}
+TitanDaFuckUp
+{'Chigoziem Okonkwo': 4, 'Jonnu Smith': 3, 'Tre Tucker': 3, 'Kevin Byard': 3, 'Antoine Winfield': 3, 'Lavonte David': 3, 'Aaron Rodgers': 3, "De'Von Achane": 3, 'Emari Demercado': 3, 'Deebo Samuel': 2, 'Nick Bolton': 2, 'Charvarius Ward': 2, 'Kyle Philips': 2, 'Jonathon Cooper': 2, 'Nico Collins': 2, 'Josh Whyle': 2, 'Rhamondre Stevenson': 2, 'Pat Freiermuth': 2, 'Devin Singletary': 2, 'Patrick Mahomes': 2, 'Tyler Lockett': 2, 'Jimmy Garoppolo': 2, 'DeAndre Hopkins': 2, 'Chris Moore': 2, 'Clyde Edwards-Helaire': 2, 'E.J. Speed': 2, "N'Keal Harry": 2, 'Jarran Reed': 2, 'Zamir White': 2, 'Jonathan Jones': 2, 'Daniel Jones': 2, 'Rondale Moore': 2, 'Jordan Howden': 2, 'Mike Evans': 2, "A'Shawn Robinson": 2, 'Kyren Williams': 2, 'Alvin Kamara': 2, 'Tony Adams': 2, 'Preston Smith': 2, 'Darius Slayton': 2, 'Carl Granderson': 2, 'Zaire Franklin': 2, 'Dennis Gardeck': 2, 'Jason Sanders': 2, 'Brock Purdy': 2, 'DeVonta Smith': 2, 'Juwan Johnson': 2, 'Azeez Al-Shaair': 2, 'Jakobi Meyers': 2, 'Gus Edwards': 2, 'Khalil Mack': 2, 'Alec Pierce': 2, 'Justin Jefferson': 2, 'Courtland Sutton': 2, 'Calvin Ridley': 2, 'Kendrick Bourne': 2, 'Matthew Stafford': 2, "D'Onta Foreman": 2, 'Joe Mixon': 2, 'Jacoby Brissett': 2, 'Keenan Allen': 2, 'Xavier Legette': 2, 'Sam LaPorta': 2}
+Skyline2020
+{"Ja'Tavion Sanders": 2}
+ishmataz
+{'Rachaad White': 2, "D'Andre Swift": 2, 'Harrison Butker': 2, 'Rome Odunze': 2, 'Treylon Burks': 2, 'Drake Maye': 2}
+Draftmagic
+{'Keaton Mitchell': 6, 'Tyjae Spears': 5, 'Taysom Hill': 5, 'Trevor Lawrence': 5, 'C.J. Stroud': 4, 'Tyrone Tracy': 4, 'Anthony Richardson': 4, "De'Von Achane": 4, 'George Pickens': 4, 'Jalin Hyatt': 3, 'Jaleel McLaughlin': 3, 'Rashid Shaheed': 3, 'Jonathan Taylor': 3, 'J.K. Dobbins': 3, 'Ricky Pearsall': 3, 'Sam LaPorta': 3, 'Tyler Allgeier': 2, 'Jahan Dotson': 2, 'Younghoe Koo': 2, 'Joe Milton': 2, 'Josh Downs': 2, 'Javonte Williams': 2, 'Jameson Williams': 2, 'Daniel Jones': 2, 'Mike Gesicki': 2, 'Javon Baker': 2, 'Jermaine Burton': 2, 'DEF KC': 2, 'Jaylen Warren': 2, 'Diontae Johnson': 2, 'Josh Jacobs': 2, "Ka'imi Fairbairn": 2, 'Michael Wilson': 2, 'DEF DET': 2, 'Breece Hall': 2, 'James Cook': 2, 'Jaylen Waddle': 2, 'Dallas Goedert': 2, 'Brian Thomas': 2, 'Malik Washington': 2, 'Luke Musgrave': 2, 'George Karlaftis': 2, 'Evan McPherson': 2, 'Kyle Pitts': 2, 'Travis Etienne': 2, 'Julian Love': 2, 'Kyler Murray': 2, 'Cooper Kupp': 2, 'Alvin Kamara': 2, 'Dalton Kincaid': 2}
+TeamJelbert
+{'Jared Goff': 3, 'Cole Kmet': 3, 'Jordan Addison': 3, 'Tyjae Spears': 3, 'Rashid Shaheed': 3, 'Chris Olave': 2, 'Jahmyr Gibbs': 2, 'Amon-Ra St. Brown': 2, 'Jaylen Waddle': 2, 'Roschon Johnson': 2, 'Malachi Corley': 2, 'DeVonta Smith': 2, 'Brock Purdy': 2, 'Cameron Dicker': 2, 'Drake London': 2, 'DK Metcalf': 2, 'Brian Thomas': 2}
+Raven4life
+{'Gus Edwards': 5, 'Cameron Dicker': 4, 'Tre Tucker': 4, 'DEF BUF': 3, 'Isaiah Likely': 3, 'Courtland Sutton': 3, 'Jordan Travis': 3, 'Bryce Young': 3, 'Josh Downs': 3, 'Derek Carr': 3, 'Joshua Dobbs': 3, 'Kendrick Bourne': 3, 'Puka Nacua': 3, 'Jake Moody': 3, 'DEF PHI': 3, 'Luke Musgrave': 3, 'Kyle Pitts': 3, 'Lamar Jackson': 3, 'Justin Tucker': 3, 'Dontayvion Wicks': 2, 'Khalil Herbert': 2, 'Dameon Pierce': 2, 'DeAndre Hopkins': 2, 'Chase Brown': 2, 'Tua Tagovailoa': 2, 'Brandon Aubrey': 2, 'James Cook': 2, 'Rashod Bateman': 2, 'Mark Andrews': 2, 'Jonathan Taylor': 2, 'Tyler Boyd': 2, 'Devin Duvernay': 2, 'Byron Murphy': 2, 'Trenton Simpson': 2, 'Nate Wiggins': 2, 'Kenneth Walker': 2, 'Chris Olave': 2, 'Josh Jacobs': 2, 'Zaire Franklin': 2, 'Brian Branch': 2, 'Jordan Addison': 2, 'J.K. Dobbins': 2, 'Aaron Jones': 2, 'Mike Williams': 2, 'Marvin Harrison': 2}
+MiracleSquad
+{'Brian Robinson': 2, 'DEF MIA': 2, 'Tua Tagovailoa': 2, 'David Njoku': 2, 'Joe Mixon': 2, 'Tyreek Hill': 2}
+BKoz21
+{}
+YFBxDavid
+{'Josh Jacobs': 5, 'Baker Mayfield': 5, 'A.T. Perry': 5, "D'Andre Swift": 5, 'Justin Jefferson': 5, 'Spencer Rattler': 4, 'Rondale Moore': 4, 'Javon Bullard': 4, 'Tyler Higbee': 4, 'Jaquan Brisker': 4, 'Luke Musgrave': 4, 'Aaron Rodgers': 4, 'Nick Bosa': 4, 'Devontez Walker': 3, 'Jonathon Brooks': 3, 'Jayden Reed': 3, 'Trey Sermon': 3, 'J.J. McCarthy': 3, 'Sam LaPorta': 3, 'Tre Tucker': 3, 'Will Anderson': 3, 'Stefon Diggs': 3, 'Javonte Williams': 3, 'Jordan Love': 3, "Ja'Marr Chase": 3, 'Justin Herbert': 3, 'Troy Andersen': 3, 'Nick Chubb': 3, 'Bryce Young': 3, 'Roquan Smith': 3, 'Greg Rousseau': 3, 'Dax Hill': 3, 'Micah Parsons': 3, 'Aaron Jones': 3, 'Kyren Williams': 3, 'Derwin James': 3, 'David Njoku': 3, 'Michael Pittman': 3, 'Lukas Van Ness': 3, 'Jonathan Taylor': 3, 'Nnamdi Madubuike': 2, 'Jerome Ford': 2, "T'Vondre Sweat": 2, 'Romeo Doubs': 2, 'Chris Braswell': 2, 'C.J. Mosley': 2, 'DeVonta Smith': 2, 'Rashan Gary': 2, 'Quentin Johnston': 2, 'Antoine Winfield': 2, 'Bucky Irving': 2, 'Jordan Battle': 2, 'Andrei Iosivas': 2, 'Juan Thornhill': 2, 'Russ Yeast': 2, 'Junior Colson': 2, 'Kylen Granson': 2, 'Bryan Bresee': 2, 'Denico Autry': 2, 'Cade Otton': 2, 'Chris Godwin': 2, 'Keon Coleman': 2, 'Malik Nabers': 2, 'Brock Bowers': 2, 'Trey Benson': 2, 'Josh Downs': 2, 'Daniel Bellinger': 2, 'Ladd McConkey': 2, 'Jonathan Mingo': 2, 'C.J. Stroud': 2, 'Breece Hall': 2, 'Najee Harris': 2, 'Jonnu Smith': 2, 'Kayvon Thibodeaux': 2, 'Khalil Herbert': 2, 'AJ Dillon': 2, 'Xavier McKinney': 2, 'Greg Dortch': 2, 'Taysom Hill': 2, 'Bo Nix': 2, 'Michael Wilson': 2, 'Maxx Crosby': 2, 'Dallas Goedert': 2, 'Joe Burrow': 2, 'Dameon Pierce': 2, 'Chris Olave': 2, 'Jeremy Chinn': 2, 'Tyler Bass': 2, 'Nick Bolton': 2, 'Logan Wilson': 2, 'Jaylen Waddle': 2, 'Evan McPherson': 2, 'Jake Moody': 2, 'Christian Watson': 2, 'Nico Collins': 2, 'Austin Ekeler': 2, 'Mike Evans': 2, 'Cooper Kupp': 2, 'Danielle Hunter': 2, 'Kenneth Walker': 2, 'Christian Wilkins': 2, 'Rayshawn Jenkins': 2, "De'Vondre Campbell": 2}
+GGsnubs
+{}
+chancelercole
+{'Adonai Mitchell': 3, 'Anthony Richardson': 2, 'Ryan Fitzpatrick': 2, 'Jerome Ford': 2, 'Michael Pittman': 2, 'Curtis Samuel': 2, 'Adam Thielen': 2}
+HTTR84Fan
+{'Isaiah Likely': 16, 'Luke McCaffrey': 14, 'Jalen McMillan': 14, 'Adonai Mitchell': 14, 'Ladd McConkey': 14, 'Brian Robinson': 12, 'Malachi Corley': 10, 'Keon Coleman': 10, 'Louis Rees-Zammit': 9, 'C.J. Stroud': 8, 'Drake London': 8, 'Marvin Harrison': 8, 'Rashee Rice': 8, 'Isiah Pacheco': 8, 'Darnell Mooney': 8, 'Tank Dell': 8, 'Alvin Kamara': 8, 'Zamir White': 8, 'Alec Pierce': 7, 'Hayden Hurst': 7, 'Rome Odunze': 7, 'Jalin Hyatt': 7, 'Devontez Walker': 7, 'Xavier Hutchinson': 7, 'Romeo Doubs': 7, 'Jahan Dotson': 7, 'Jared Goff': 7, 'Cooper Rush': 7, 'Dontayvion Wicks': 7, 'Frank Gore': 7, 'Brock Bowers': 7, 'Antonio Gibson': 6, 'Clyde Edwards-Helaire': 6, 'Terry McLaurin': 6, 'Treylon Burks': 6, 'Chase Claypool': 6, 'Khalil Herbert': 6, 'Michael Pittman': 6, 'David Montgomery': 6, 'Mike Gesicki': 6, 'Sam LaPorta': 6, 'Amari Cooper': 6, 'Zach Evans': 5, 'Jahmyr Gibbs': 5, 'Justin Jefferson': 5, 'Derius Davis': 5, 'Xavier Worthy': 5, 'Audric Estime': 5, 'Geno Smith': 5, 'Troy Franklin': 5, 'Ricky Pearsall': 5, "Ja'Marr Chase": 5, 'Laviska Shenault': 5, 'Dallas Goedert': 5, 'Jerry Jeudy': 5, 'Curtis Samuel': 5, 'Raheem Mostert': 5, 'Michael Gallup': 5, 'Will Shipley': 5, 'Rashod Bateman': 5, 'Kadarius Toney': 5, 'Malik Nabers': 5, 'Emmanuel Forbes': 5, 'Chuba Hubbard': 5, 'Zack Moss': 5, 'Jayden Daniels': 5, 'Christian Kirk': 4, 'Devin Singletary': 4, 'Tua Tagovailoa': 4, 'Tyler Lockett': 4, 'Jonathon Brooks': 4, 'Quentin Johnston': 4, 'Joe Burrow': 4, 'Calvin Ridley': 4, 'Xavier Legette': 4, 'Jalen Hurts': 4, 'Jacob Cowing': 4, 'Matthew Stafford': 4, 'Tyrique Stevenson': 4, 'Eric Gray': 4, 'Van Jefferson': 4, "Ja'Lynn Polk": 4, 'Jonathan Taylor': 4, 'Najee Harris': 4, 'Jaylen Waddle': 4, 'Khalil Shakir': 4, 'Justin Herbert': 4, 'Saquon Barkley': 4, 'Jase McClellan': 4, 'Jaylen Wright': 4, 'Hendon Hooker': 4, 'Javonte Williams': 4, 'Josh Jacobs': 4, 'Evan Engram': 4, 'Tommy Tremble': 4, 'Rhamondre Stevenson': 4, 'Hollywood Brown': 4, 'Baker Mayfield': 4, 'Chase Brown': 4, 'Rachaad White': 4, 'Breece Hall': 3, 'John Metchie': 3, 'Mac Jones': 3, 'Russell Wilson': 3, 'Ray Davis': 3, 'Tyler Conklin': 3, 'Travis Etienne': 3, 'AJ Dillon': 3, 'Christian Gonzalez': 3, 'Noah Gray': 3, 'DeVonta Smith': 3, 'Tyler Higbee': 3, 'Rondale Moore': 3, 'Noah Fant': 3, 'T.J. Hockenson': 3, 'Tyler Boyd': 3, 'Demario Davis': 3, 'Kylen Granson': 3, 'Mazi Smith': 3, 'Jimmy Garoppolo': 3, 'Darius Slayton': 3, 'Dyami Brown': 3, 'Zach Wilson': 3, 'Deshaun Watson': 3, 'Devin White': 3, 'Kenny McIntosh': 3, 'Sam Howell': 3, 'George Pickens': 3, 'Gabe Davis': 3, 'DJ Moore': 3, 'Sam Darnold': 3, 'Deonte Banks': 3, 'George Kittle': 3, 'Will Anderson': 3, 'Dak Prescott': 3, 'Adam Thielen': 3, 'Trey Benson': 3, 'Chigoziem Okonkwo': 3, 'Deebo Samuel': 3, 'Allen Lazard': 3, 'Mark Andrews': 3, 'Chris Godwin': 3, 'Jayden Reed': 3, 'Amon-Ra St. Brown': 3, 'Daniel Jones': 3, 'Jameis Winston': 3, 'Mike Evans': 3, 'Tyler Allgeier': 3, 'Brandin Cooks': 3, 'Adam Trautman': 3, 'Justice Hill': 3, 'Hunter Renfrow': 3, 'Michael Thomas': 3, 'Isaac Guerendo': 3, 'Anthony Richardson': 3, 'Christian Watson': 3, 'Nico Collins': 3, 'Olamide Zaccheaus': 3, 'Courtland Sutton': 3, 'Austin Ekeler': 3, 'Drake Maye': 3, 'Stefon Diggs': 3, 'Davante Adams': 3, 'Deonte Harty': 2, 'Elijah Moore': 2, 'Mike White': 2, "D'Onta Foreman": 2, 'Kyle Pitts': 2, 'Gardner Minshew': 2, 'Taylor Heinicke': 2, 'Kendre Miller': 2, 'Darren Waller': 2, 'Keaton Mitchell': 2, 'Joshua Palmer': 2, 'Isaiah Spiller': 2, 'Zaven Collins': 2, 'Jamaal Williams': 2, 'Braden Fiske': 2, 'Kenny Moore': 2, 'Jacoby Brissett': 2, 'Cole Bishop': 2, 'Taysom Hill': 2, 'Tank Bigsby': 2, 'Parris Campbell': 2, 'David Njoku': 2, 'Jelani Woods': 2, 'James Conner': 2, 'Will Levis': 2, 'Tony Pollard': 2, 'Josh Allen': 2, 'Keenan Allen': 2, 'Daniel Bellinger': 2, 'Kamren Curl': 2, 'Shaquil Barrett': 2, 'Byron Young': 2, 'Tre Tucker': 2, 'Germaine Pratt': 2, 'Kevin Byard': 2, 'Donovan Peoples-Jones': 2, 'Tyquan Thornton': 2, 'A.J. Brown': 2, 'Lamar Jackson': 2, 'DeAndre Hopkins': 2, 'Juwan Johnson': 2, 'Marquez Callaway': 2, 'Samaje Perine': 2, 'Mo Alie-Cox': 2, "Wan'Dale Robinson": 2, 'DJ Chark': 2, 'Dalvin Cook': 2, 'DeWayne McBride': 2, 'Israel Abanikanda': 2, 'Terrace Marshall': 2, 'Scotty Miller': 2, 'Greg Dortch': 2, 'Jameson Williams': 2, 'Folorunso Fatukasi': 2, 'Case Keenum': 2, 'DaVon Hamilton': 2, 'Cameron Latu': 2, 'Luke Musgrave': 2, 'Davis Mills': 2, 'J.K. Dobbins': 2, 'Deuce Vaughn': 2, 'Justin Fields': 2, 'Albert Okwuegbunam': 2, 'Jonnu Smith': 2, 'Ezekiel Elliott': 2, 'Blake Corum': 2, 'Quay Walker': 2, 'Christian Rozeboom': 2, "Tre'von Moehrig": 2, 'Jordan Poyer': 2, 'Damarri Mathis': 2, 'Cole Holcomb': 2, 'Devon Witherspoon': 2, 'Montez Sweat': 2, 'Devin Bush': 2, 'DEF PIT': 2, 'Zay Flowers': 2, 'Derrick Henry': 2, 'Travis Kelce': 2, 'Kenneth Walker': 2, 'Dameon Pierce': 2, 'Zach Charbonnet': 2, 'Brock Purdy': 2, 'James Cook': 2, 'Miles Sanders': 2, 'Drew Lock': 2, 'Jordan Addison': 2, 'Chris Olave': 2, 'K.J. Osborn': 2, 'DK Metcalf': 2, 'Mike Williams': 2, 'JuJu Smith-Schuster': 2, 'Tim Patrick': 2, 'Gerald Everett': 2, 'Kirk Cousins': 2, 'Jonathan Mingo': 2, 'Pete Werner': 2, 'Logan Wilson': 2, 'Justin Watson': 2, 'Josh Reynolds': 2, 'Zay Jones': 2, 'Jonathan Allen': 2, 'Will Reichard': 2, 'Jordan Magee': 2, 'Tyrod Taylor': 2, 'Cole Turner': 2, 'Tyler Huntley': 2, 'Cordarrelle Patterson': 2, 'Josh Whyle': 2, 'Garrett Wilson': 2, 'Christian McCaffrey': 2, 'Brian Thomas': 2}
+Nickot
+{'Kendre Miller': 4, 'Chris Olave': 4, 'Marvin Harrison': 4, 'Chase Brown': 3, 'Daniel Bellinger': 3, 'Jacob Cowing': 3, 'J.J. McCarthy': 3, 'George Pickens': 3, 'Bijan Robinson': 3, 'Joe Burrow': 3, 'Spencer Rattler': 3, 'Trey McBride': 2, 'Christian Watson': 2, 'Treylon Burks': 2, 'Jalen Tolbert': 2, 'Saquon Barkley': 2, 'Jordan Love': 2, 'Tyler Allgeier': 2, 'Sean Tucker': 2, 'Michael Mayer': 2, 'Tyquan Thornton': 2, 'Garrett Wilson': 2, 'Wil Lutz': 2, 'Jonathan Mingo': 2, 'Bucky Irving': 2, 'Jaxon Smith-Njigba': 2, 'T.J. Hockenson': 2, 'Ladd McConkey': 2, 'Rome Odunze': 2, 'Rico Dowdle': 2, 'Blake Corum': 2, 'Ben Sinnott': 2, 'Alex Singleton': 2, 'Hollywood Brown': 2, 'Zack Moss': 2, 'Romeo Doubs': 2}
+hoodmhb
+{'Chigoziem Okonkwo': 3, 'Charlie Jones': 3, 'Israel Abanikanda': 3, 'Colby Parkinson': 2, 'Josh Allen': 2, 'Christian McCaffrey': 2, 'Marvin Harrison': 2, "De'Von Achane": 2, 'Chris Olave': 2, 'Michael Pittman': 2, 'Kyler Murray': 2, 'Xavier Worthy': 2, 'Michael Penix': 2, 'Davis Mills': 2, 'Saquon Barkley': 2, 'Darnell Mooney': 2, 'Terry McLaurin': 2, 'Zach Charbonnet': 2}
+Destroyers02
+{'Raheem Mostert': 6, 'Jaylen Wright': 6, 'Cordarrelle Patterson': 6, 'Keenan Allen': 5, 'Greg Dortch': 4, 'James Conner': 4, 'Noah Brown': 4, 'Robert Woods': 4, 'Chase Brown': 3, 'Jalen Hurts': 3, 'Michael Pittman': 3, 'David Njoku': 3, 'Jauan Jennings': 3, 'Rhamondre Stevenson': 3, 'K.J. Osborn': 3, 'Tua Tagovailoa': 2, 'Evan Engram': 2, 'Khalil Shakir': 2, 'Luke Schoonmaker': 2, 'Lamar Jackson': 2, 'Tyler Lockett': 2, 'Matthew Stafford': 2, 'Tyreek Hill': 2, 'Michael Thomas': 2, 'Dameon Pierce': 2, 'Pierre Strong': 2, 'Zack Moss': 2, 'Baker Mayfield': 2, 'Xavier Worthy': 2, 'Spencer Rattler': 2, 'Justin Herbert': 2, 'Jamaal Williams': 2, "Ja'Tavion Sanders": 2, 'Blake Corum': 2, 'Aaron Rodgers': 2, "De'Von Achane": 2, 'Tutu Atwell': 2, 'Austin Ekeler': 2, 'Dalvin Cook': 2, 'Nelson Agholor': 2, 'Zach Ertz': 2, 'Xavier Hutchinson': 2, 'Boston Scott': 2, 'Joe Flacco': 2, 'Audric Estime': 2, 'Jahan Dotson': 2, 'Jaylen Waddle': 2, 'Haason Reddick': 2, 'Derrick Henry': 2, 'Jake Bates': 2, 'Daniel Carlson': 2}
+FBallHobbies
+{'Brock Purdy': 3, 'Jaylen Warren': 3, 'DK Metcalf': 3, 'Brandon Aiyuk': 2, 'Kayshon Boutte': 2, 'Jaxon Smith-Njigba': 2, 'Elijah Mitchell': 2, 'Hunter Henry': 2, 'Xavier Worthy': 2, 'Frank Gore': 2, 'Rasheen Ali': 2, 'Caleb Williams': 2, 'Jalin Hyatt': 2, 'Chase Brown': 2, 'Jauan Jennings': 2, 'Jerick McKinnon': 2, 'Jordan Addison': 2, 'Trevor Lawrence': 2, 'Jordan Love': 2, "D'Andre Swift": 2, 'Mark Andrews': 2, 'Curtis Samuel': 2}
+APPHILL
+{'Romeo Doubs': 5, 'Isiah Pacheco': 4, 'Rashid Shaheed': 4, 'Calvin Ridley': 3, 'Brian Thomas': 3, 'Tee Higgins': 3, 'DEF CIN': 3, 'Pat Freiermuth': 3, 'DeVonta Smith': 3, 'Jalen Hurts': 3, 'Jerome Ford': 3, 'DEF NYG': 2, 'Tank Dell': 2, 'Jaylen Warren': 2, 'Trey McBride': 2, "De'Von Achane": 2, 'Keon Coleman': 2, 'Amon-Ra St. Brown': 2, 'DJ Moore': 2, 'James Conner': 2, 'Jake Moody': 2, 'Rashee Rice': 2, 'Will Levis': 2, 'Terry McLaurin': 2, 'Tyler Conklin': 2, 'Dalton Kincaid': 2}
+ARoeske10
+{}
+WatsonMassagesLLC
+{'Jake Ferguson': 2, "D'Andre Swift": 2, 'Jerry Jeudy': 2, 'Dalton Kincaid': 2}
+MiniVann26
+{'Josh Downs': 3, 'Jameson Williams': 3, 'J.K. Dobbins': 3, 'Amon-Ra St. Brown': 3, 'Bijan Robinson': 3, 'Dontayvion Wicks': 3, 'Hollywood Brown': 3, 'DJ Moore': 3, 'Deshaun Watson': 3, 'Brandon Aiyuk': 3, 'Greg Dortch': 2, 'Patrick Mahomes': 2, 'Ezekiel Elliott': 2, 'Dalton Kincaid': 2, 'DeVonta Smith': 2, 'Jaxon Smith-Njigba': 2, 'Parker Washington': 2, 'Chigoziem Okonkwo': 2, 'Brock Purdy': 2, 'Trevor Lawrence': 2, 'Aaron Jones': 2, 'Geno Smith': 2, 'Anthony Richardson': 2, 'Rashid Shaheed': 2, 'Sam Darnold': 2, 'Bub Means': 2, 'Ricky Pearsall': 2, 'Rome Odunze': 2, 'Dylan Laube': 2, 'Zay Jones': 2, 'Kyler Murray': 2, 'Noah Brown': 2, 'Ty Chandler': 2, 'Greg Dulcich': 2, 'Kenneth Walker': 2, 'Chris Olave': 2, 'Drake London': 2, 'CeeDee Lamb': 2, 'Jarrett Stidham': 2, 'David Montgomery': 2, 'Devaughn Vele': 2, 'Brian Thomas': 2, 'Tank Dell': 2, "De'Von Achane": 2, 'Brian Robinson': 2, 'Diontae Johnson': 2, 'Jonathon Brooks': 2, 'Rashee Rice': 2}
+znave32
+{}
+JohnDenver
+{}
+PapaYo
+{'Justin Jefferson': 2, 'Joe Mixon': 2}
+Pierce_Arnold
+{'Luke Musgrave': 2, 'Anthony Richardson': 2}
+DJFuttbucker
+{'Jake Ferguson': 2, 'Adonai Mitchell': 2, 'Xavier Worthy': 2}
+Hodges1630
+{}
+Wyattwenz20
+{}
+masonw12
+{'DeVonta Smith': 2}
+zzztrain
+{}
+Rdizzle324
+{}
+jjclemmo20
+{}
+BryanH87
+{}
+carterscrap
+{}
+bdog2011
+{'George Pickens': 2}
+eastonsmitty23
+{}
+EastonHuff
+{}
+lucasfletcher
+{'Zay Flowers': 2}
+22Leroy
+{}
+Eburns69
+{}
+goatcolt13
+{'Zamir White': 2, 'Mike Evans': 2}
+cosmith2029
+{'Ty Chandler': 2, 'Raheem Mostert': 2}
+samorey11
+{'Jerome Ford': 5, 'Chase Brown': 4, 'Tee Higgins': 4, 'Daniel Jones': 3, 'Ty Chandler': 3, 'Isiah Pacheco': 3, 'Jermaine Burton': 3, 'Brian Thomas': 3, 'Michael Wilson': 3, 'Tua Tagovailoa': 3, 'Cade Otton': 2, 'Andrei Iosivas': 2, 'Jordan Addison': 2, 'Chigoziem Okonkwo': 2, 'Luke McCaffrey': 2, 'A.T. Perry': 2, 'Amon-Ra St. Brown': 2, 'Rashod Bateman': 2, 'Kyle Pitts': 2, 'Hollywood Brown': 2, 'Rashee Rice': 2, 'Kyren Williams': 2, 'Trey McBride': 2, 'Nico Collins': 2, 'Amari Cooper': 2}
+BubbaSkroo
+{'DEF SF': 2, "D'Andre Swift": 2, 'Kirk Cousins': 2}
+DoubleD99
+{'Rachaad White': 2, 'Jared Goff': 2, 'Tyjae Spears': 2, 'Jaxon Smith-Njigba': 2, 'Rhamondre Stevenson': 2, 'Jake Bates': 2}
+CobraKai
+{'Zack Moss': 2, 'Deebo Samuel': 2, 'Aaron Jones': 2}
