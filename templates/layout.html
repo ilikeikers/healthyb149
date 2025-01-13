@@ -10,11 +10,12 @@
     <body>
         <header>
             <div class="topnav" id="myTopnav">
-                <a href="{{ url_for('index') }}" class="active">Leaderboard</a>
+                <a href="{{ url_for('index') }}" class="active">Healthy B149</a>
                 <div id="extraLinks">
+                    <a href="{{ url_for('join') }}">Sign Up</a>
                     <a href="{{ url_for('weighIn') }}">Weigh In</a>
                     <a href="{{ url_for('getStats') }}">Get Stats</a>
-                    <a href="{{ url_for('join') }}">Sign Up</a>
+                    <a href="{{ url_for('index') }}">Leaderboard</a>
                 </div>
                 <a href="javascript:void(0);" class="icon" onclick="myFunction()">
                     <i class="fa fa-bars"></i>

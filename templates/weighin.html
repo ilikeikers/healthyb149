@@ -1,7 +1,7 @@
 {% extends "layout.html" %}
 {% block body %}
 
-    <h1>WEIGH IN</h1>
+    <h1 class="pageheader">WEIGH IN</h1>
     <br>
     <form action="/addweight" method="post" id="addweight">
         <select id="names" name="name" required>
@@ -19,9 +19,9 @@
             <option>lb</option>
         </select>
         <br>
-        <input autocomplete="off" autofocus name="scaleid" placeholder="Scale ID (not required)"  maxlength="15" pattern="[A-Za-z0-9]+" type="text">
+        <input autocomplete="off" autofocus name="scaleid" placeholder="Scale ID (not required)"  maxlength="15" pattern="[A-Za-z0-9\s]+" type="text">
         <br>
-        <input autocomplete="off" autofocus name="checkedby" placeholder="Checked By"  maxlength="15" pattern="[A-Za-z0-9]+" required type="text">
+        <input autocomplete="off" autofocus name="checkedby" placeholder="Checked By"  maxlength="15" pattern="[A-Za-z\s]+" required type="text">
         <br>
         <br>
         <button type="submit">Submit</button>

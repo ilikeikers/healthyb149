@@ -1,9 +1,13 @@
 {% extends "layout.html" %}
 {% block body %}
 
-    <h1>BECOME A MEMBER</h1>
+    <h1 class="pageheader">BECOME A MEMBER</h1>
     <br>
-    <p> IMPORTANT: This pin will NOT be stored on a super secure database. Please don't use the same pin as something important. </p>
+    <div class="warning">
+        <h3> IMPORTANT: </h3>
+        <br>
+        <h5> This pin will NOT be stored on a super secure database. Please don't use the same pin as something important. </h5>
+    </div>
     <br>
     <form action="/addmember" method="post">
 

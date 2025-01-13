@@ -27,11 +27,12 @@ def index():
             if loser[0] != leaderboard_position[0]:
                 continue
             elif loser[0] == leaderboard_position[0]:
+                userid = loser[0]
                 fname = loser[1].title()
                 lname = loser[2].title()
                 percent_loss = round(leaderboard_position[1], 2)
                 # fname, lname, percent_loss, current_position, previous_position
-                bl_user = (fname, lname, percent_loss, leaderboard_position[2], leaderboard_position[3])
+                bl_user = (fname, lname, percent_loss, leaderboard_position[2], leaderboard_position[3], userid)
                 bl_users.append(bl_user)
             else:
                 return "CONTACT IKE and let him know it failed to update the biggest loser leaderboard positions"
@@ -41,11 +42,12 @@ def index():
             if maniac[0] != leaderboard_position[0]:
                 continue
             elif maniac[0] == leaderboard_position[0]:
+                userid = maniac[0]
                 fname = maniac[1].title()
                 lname = maniac[2].title()
                 percent_gain = round(leaderboard_position[1], 2)
                 # fname, lname, percent_loss, current_position, previous_position
-                mm_user = (fname, lname, percent_gain, leaderboard_position[2], leaderboard_position[3])
+                mm_user = (fname, lname, percent_gain, leaderboard_position[2], leaderboard_position[3], userid)
                 mm_users.append(mm_user)
             else:
                 return "CONTACT IKE and let him know it failed to update the muscle madness leaderboard positions"
@@ -55,12 +57,26 @@ def index():
     mm_counted_users = []
     count = 1
     for user in sorted_bl_users:
-        user_tup = (count, user[0], user[1], user[2], user[3], user[4])
+        userid = user[5]
+        raw_previous_position = db.execute(f"SELECT current_position FROM leaderboard WHERE user='{userid}';").fetchone()
+        previous_position = int(raw_previous_position[0])
+        current_position = count
+        position_change = previous_position - current_position
+        db.execute(f"UPDATE leaderboard SET current_position={current_position} WHERE user={userid}")
+        db.execute(f"UPDATE leaderboard SET previous_position={previous_position} WHERE user={userid}")
+        user_tup = (count, user[0], user[1], user[2], user[3], user[4], position_change)
         bl_counted_users.append(user_tup)
         count += 1
     count = 1
     for user in sorted_mm_users:
-        user_tup = (count, user[0], user[1], user[2], user[3], user[4])
+        userid = user[5]
+        raw_previous_position = db.execute(f"SELECT current_position FROM leaderboard WHERE user='{userid}';").fetchone()
+        previous_position = int(raw_previous_position[0])
+        current_position = count
+        position_change = previous_position - current_position
+        db.execute(f"UPDATE leaderboard SET current_position={current_position} WHERE user={userid}")
+        db.execute(f"UPDATE leaderboard SET previous_position={previous_position} WHERE user={userid}")
+        user_tup = (count, user[0], user[1], user[2], user[3], user[4], position_change)
         mm_counted_users.append(user_tup)
         count += 1
 
@@ -118,8 +134,7 @@ def addMember():
     db.execute(f"INSERT INTO leaderboard (user, starting_weight, current_weight, starting_musclemass, current_musclemass, current_percent_loss, current_percent_gain, current_position, previous_position) VALUES({userid}, 0, 0, 0, 0, 0, 0, 0, 0);")
     con.commit()
 
-    return render_template("/index.html")
-
+    return index()
     #return render_template("/getstats/<id>")
 
 @app.route("/weighin")
@@ -187,11 +202,10 @@ def addWeight():
         db.execute(f"UPDATE leaderboard SET current_weight={weight} WHERE user={userid}")
         db.execute(f"UPDATE leaderboard SET starting_musclemass={current_muscle_mass} WHERE user={userid}")
         db.execute(f"UPDATE leaderboard SET current_musclemass={current_muscle_mass} WHERE user={userid}")
-        db.execute(f"UPDATE leaderboard SET current_percent_loss=0 WHERE user={userid}")
-        db.execute(f"UPDATE leaderboard SET current_percent_gain=0 WHERE user={userid}")
+        #db.execute(f"UPDATE leaderboard SET current_percent_loss=0 WHERE user={userid}")
+        #db.execute(f"UPDATE leaderboard SET current_percent_gain=0 WHERE user={userid}")
         percent_loss = 0
         percent_gain = 0
-        current_position = 0
     else:
         db.execute(f"UPDATE leaderboard SET current_musclemass={current_muscle_mass} WHERE user={userid}")
         db.execute(f"UPDATE leaderboard SET current_weight={weight} WHERE user={userid}")
@@ -212,39 +226,35 @@ def addWeight():
         else:
             return "CONTACT IKE and tell him that the program failed to update your percent gain/loss on the leaderboard"
         con.commit()
-        # NEED TO UPDATE LEADERBOARD POSITIONS FOR ALL USERS
-        raw_previous_position = db.execute(f"SELECT current_position FROM leaderboard WHERE user={userid}").fetchone()
-        previous_position = raw_previous_position[0]
-        if challenge_type == 0:
-            raw_results = db.execute(f"SELECT current_percent_loss FROM leaderboard ORDER BY current_percent_loss DESC").fetchmany()
-            current_position = 1
-            for result in raw_results:
-                if result[0] == percent_loss:
-                    break
-                else:
-                    current_position += 1
-        elif challenge_type == 1:
-            current_position = 1
-            raw_results = db.execute(f"SELECT current_percent_gain FROM leaderboard ORDER BY current_percent_gain DESC").fetchmany()
-            for result in raw_results:
-                if result[0] == percent_gain:
-                    break
-                else:
-                    current_position += 1
-        else:
-            return "CONTACT IKE and tell him that the program failed to update your current position on the leaderboard"
-        db.execute(f"UPDATE leaderboard SET current_position={current_position} WHERE user={userid}")
-        db.execute(f"UPDATE leaderboard SET previous_position={previous_position} WHERE user={userid}")
+    # NEED TO UPDATE LEADERBOARD POSITIONS FOR ALL USERS
+    current_position = 0
+    if challenge_type == 0:
+        raw_results = db.execute(f"SELECT current_percent_loss FROM leaderboard ORDER BY current_percent_loss DESC").fetchmany()
+        current_position = 1
+        for result in raw_results:
+            if result[0] == percent_loss:
+                break
+            else:
+                current_position += 1
+    elif challenge_type == 1:
+        current_position = 1
+        raw_results = db.execute(f"SELECT current_percent_gain FROM leaderboard ORDER BY current_percent_gain DESC").fetchmany()
+        for result in raw_results:
+            if result[0] == percent_gain:
+                break
+            else:
+                current_position += 1
+    else:
+        return "CONTACT IKE and tell him that the program failed to update your current position on the leaderboard"
 
     db.execute(f"INSERT INTO stats (user, datetime, weight, checked_by, position_snapshot, percent_loss, percent_gain, scaleid) VALUES({userid}, '{datetime}', {weight}, '{checked_by}', {current_position}, {percent_loss}, {percent_gain}, '{scaleid}');")
     con.commit()
 
-    return render_template("index.html")
+    return index()
 
 @app.route("/getstats")
 def getStats():
-    return "UNDER CONSTRUCTION"
-    #return render_template("getstats.html")
+    return render_template("stats.html")
 
 @app.route("/join")
 def join():

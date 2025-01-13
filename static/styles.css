@@ -10,22 +10,63 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f0f0;
+    /* background-color: #f0f0f0; */
 }
+
+/* INDEX */
 
 table, th, td {
-    padding: 3.14px;
-    border: 1px solid black;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 0.42rem;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0.05rem solid black;
 }
 
+.leaderboardheader {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 0.42rem;
+    margin-top: 0.42rem;
+    margin-bottom: 0.1rem;
+}
 
+/* SIGN UP */
 
+.pageheader {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 0.42rem;
+    margin-top: 0.42rem;
+}
+
+.warning {
+    text-align:center;
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
+    padding: 0.72rem;
+    border: 0.05rem solid #d6006e;
+}
+
+.warning h3 {
+    font-weight: bold;
+}
+
+input, select, label, button {
+    margin-left: 0.4rem;
+    margin-bottom: 0.4rem;
+    padding: 0.2rem;
+}
 /* NAV BAR */
 
  /* Style the navigation menu */
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #75d1e0;
   position: relative;
 }
 
@@ -36,10 +77,10 @@ table, th, td {
 
 /* Style navigation menu links */
 .topnav a {
-  color: white;
-  padding: 14px 16px;
+  color: #000000;
+  padding: 1rem 1.2rem;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 1.4rem;
   display: block;
 }
 
@@ -54,14 +95,14 @@ table, th, td {
 
 /* Add a grey background color on mouse-over */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #616365;
   color: black;
 }
 
 /* Style the active link (or home/logo) */
 .active {
-  background-color: #04AA6D;
-  color: white;
+  background-color: #0093D0;
+  color: #000000;
 }
 
 
@@ -78,17 +119,17 @@ table, th, td {
 /* The actual popup (appears on top) */
 .popup .popuptext {
   visibility: hidden;
-  width: 160px;
+  width: 20rem;
   background-color: #555;
   color: #fff;
   text-align: center;
-  border-radius: 6px;
-  padding: 8px 0;
+  border-radius: 0.42rem;
+  padding: 0.72rem 0;
   position: absolute;
   z-index: 1;
   top: 125%;
   left: 50%;
-  margin-left: -80px;
+  margin-left: -4.8rem;
 }
 
 /* Toggle this class when clicking on the popup container (hide and show the popup) */
