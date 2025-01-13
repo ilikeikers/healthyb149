@@ -1,21 +1,45 @@
 {% extends "layout.html" %}
 {% block body %}
 
-    <h1>LEADERBOARD</h1>
-            <table>
-                <thead>
-                    <tr>
-                        <th></th>
-                    </tr>
-                </thead>
+        <h1 class="leaderboardheader">BIGGEST LOSER LEADERBOARD</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Position</th>
+                    <th>Name</th>
+                    <th>Percent Loss</th>
+                </tr>
+            </thead>
+            {% for user in bl_users %}
                 <tbody>
-                    {% for user in users %}
                     <tr>
-                        <td>{{ fname }} {{ lname }}</td>
-                        <td>{{ percent_lost }}</td>
+                        <td>{{ user[0] }}</td>
+                        <td>{{ user[1] }} {{ user[2] }}</td>
+                        <td>{{ user[3] }}</td>
                     </tr>
-                    {% endfor %}
+                    <tr>
                 </tbody>
-            </table>
             {% endfor %}
+        </table>
+
+        <h1 class="leaderboardheader"> MUSCLE MADNESS LEADERBOARD</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Position</th>
+                    <th>Name</th>
+                    <th>Percent Gained</th>
+                </tr>
+            </thead>
+            {% for user in mm_users %}
+                <tbody>
+                    <tr>
+                        <td>{{ user[0] }}</td>
+                        <td>{{ user[1] }} {{ user[2] }}</td>
+                        <td>{{ user[3] }}</td>
+                    </tr>
+                    <tr>
+                </tbody>
+            {% endfor %}
+        </table>
 {% endblock %}

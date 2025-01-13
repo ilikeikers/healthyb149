@@ -13,8 +13,12 @@ app.wsgi_app = ProxyFix(
 DB_FILE = "healthyb149.sqlite"
 con, db = dbu.createConnection(DB_FILE, False)
 
-@app.route("/")
+@app.route("/index")
 def index():
+    return render_template("join.html")
+
+@app.route("/leaderboard")
+def leaderboard():
     # [(pos, fname, lname, percent var, pos change), ()]
 
     raw_biggest_losers = db.execute("SELECT userid, first_name, last_name FROM users WHERE challenge == 0").fetchall()
@@ -80,7 +84,7 @@ def index():
         mm_counted_users.append(user_tup)
         count += 1
 
-    return render_template("index.html", bl_users=bl_counted_users, mm_users=mm_counted_users)
+    return render_template("leaderboard.html", bl_users=bl_counted_users, mm_users=mm_counted_users)
 
 @app.route("/addmember", methods=["POST"])
 def addMember():
@@ -135,7 +139,7 @@ def addMember():
     db.execute(f"INSERT INTO leaderboard (user, starting_weight, current_weight, starting_musclemass, current_musclemass, current_percent_loss, current_percent_gain, current_position, previous_position) VALUES({userid}, 0, 0, 0, 0, 0, 0, 0, 0);")
     con.commit()
 
-    return index()
+    return leaderboard()
     #return render_template("/getstats/<id>")
 
 @app.route("/weighin")
@@ -251,7 +255,7 @@ def addWeight():
     db.execute(f"INSERT INTO stats (user, datetime, weight, checked_by, position_snapshot, percent_loss, percent_gain, scaleid) VALUES({userid}, '{datetime}', {weight}, '{checked_by}', {current_position}, {percent_loss}, {percent_gain}, '{scaleid}');")
     con.commit()
 
-    return index()
+    return leaderboard()
 
 @app.route("/getstats")
 def getStats():
