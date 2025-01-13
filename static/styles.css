@@ -49,7 +49,7 @@ table, th, td {
     margin-left: 0.4rem;
     margin-right: 0.4rem;
     padding: 0.72rem;
-    border: 0.05rem solid #d6006e;
+    border: 0.05rem solid #cc292b;
 }
 
 .warning h3 {
@@ -86,7 +86,7 @@ input, select, label, button {
 
 /* Style the hamburger menu */
 .topnav a.icon {
-  background: black;
+  background: #0093d0;
   display: block;
   position: absolute;
   right: 0;
@@ -101,7 +101,7 @@ input, select, label, button {
 
 /* Style the active link (or home/logo) */
 .active {
-  background-color: #0093D0;
+  background-color: #00aeef;
   color: #000000;
 }
 
