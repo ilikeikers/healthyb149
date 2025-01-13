@@ -129,7 +129,8 @@ def addMember():
     db.execute("INSERT INTO users (first_name, last_name, username, pin, height, challenge, private) VALUES(?, ?, ?, ?, ?, ?, ?);",
                (user["first_name"], user["last_name"], user["username"], user["pin"], user["height"], user["challenge"], user["private"]))
     con.commit()
-    raw_userid = db.execute(f"SELECT userid FROM users WHERE username='{user["username"]}';").fetchone()
+    username = user["username"]
+    raw_userid = db.execute(f"SELECT userid FROM users WHERE username='{username}';").fetchone()
     userid = raw_userid[0]
     db.execute(f"INSERT INTO leaderboard (user, starting_weight, current_weight, starting_musclemass, current_musclemass, current_percent_loss, current_percent_gain, current_position, previous_position) VALUES({userid}, 0, 0, 0, 0, 0, 0, 0, 0);")
     con.commit()
